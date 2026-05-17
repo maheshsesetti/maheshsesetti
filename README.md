@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mahesh Sesetti 👋
 
-<!--
-**maheshsesetti/maheshsesetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Web Developer | 📱 Mobile Developer | ⚙️ Backend Engineer
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** React.js, HTML5, CSS3, JavaScript  
+**Mobile:** Flutter, Dart  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, PostgreSQL  
+
+## 📊 GitHub Stats
+
+![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshsesetti&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/mahesh-babu-764476128/
+- Email: maehesh1995.sesetti@email.com
+
