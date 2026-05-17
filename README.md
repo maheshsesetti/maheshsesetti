@@ -1,32 +1,33 @@
-# Hi, I'm Mahesh Sesetti 👋
+# Hi, I'm Mahesh Babu Sesetti 👋
 
-> ⚛️ Full Stack Web Developer · 📱 Mobile Developer · 🟢 Node.js Engineer
+> ⚛️ Full Stack Web Developer &nbsp;·&nbsp; 📱 Flutter & Mobile &nbsp;·&nbsp; 🟢 Node.js Backend Engineer
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mahesh1995.sesetti@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://github.com/maheshsesetti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🙋 About Me
 
-- ⚛️ Building modern web applications with **React.js** — hooks, context, performance-first
-- 📱 Crafting cross-platform mobile apps with **Flutter & Dart**
-- 🟢 Designing scalable REST & GraphQL APIs using **Node.js & Express**
-- 🗄️ Working with **MongoDB, PostgreSQL** and cloud infrastructure
-- 🚀 Passionate about clean code, great DX, and shipping products that matter
-- 📖 Always learning — currently exploring **microservices & DevOps**
-- 🇮🇳 Open Source contributor from India
+- 🚀 **6+ years** of experience building full-stack web and cross-platform mobile applications
+- ⚛️ Building scalable web frontends with **React.js** — hooks, context, TypeScript, performance-first
+- 📱 Crafting cross-platform apps with **Flutter & Dart** — BLoC, GetX, Clean Architecture
+- 🟢 Designing robust REST & GraphQL APIs using **Node.js & Express**
+- ☁️ Experienced with **Firebase, AWS Amplify, DynamoDB, MongoDB, PostgreSQL**
+- 👥 Led teams, mentored junior developers, and conducted code reviews in Agile environments
+- 📦 Published **10+ apps** on Google Play Store with 20,000+ active users
+- 🇮🇳 Based in Vijayawada, Andhra Pradesh, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-**⚛️ Frontend**
+**⚛️ Frontend (Web)**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -34,26 +35,60 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 **📱 Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
 **🟢 Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
-**⚙️ Tools & DevOps**
+**☁️ Cloud & DevOps**
 
+![AWS](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Cloud-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Full Stack & Mobile Developer | Latinem Private Limited | July 2025 – Present |
+| Full Stack Developer (Flutter + Node.js) | HashStack Solutions | Apr 2024 – June 2025 |
+| Flutter & Backend Developer | First LSI Consulting Pvt Ltd | Jan 2023 – Nov 2023 |
+| Flutter Developer | TechSheet Pvt Ltd | Aug 2022 – Nov 2022 |
+| Software Developer (Full Stack) | Vaidhyamegha Pvt Ltd | Apr 2019 – Aug 2022 |
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Users | Tech |
+|---------|-------|------|
+| **Sobha Care** | 20,000+ | Flutter, REST APIs, Firebase |
+| **Yantra Live** | 10,000+ | Flutter, BLoC, Firebase, Dio — API speed ↑40%, Startup ↓35% |
+| **Sobha HSSE** | 5,000+ | Flutter, REST APIs |
+| **Sobha Flex Gate** | — | Flutter, REST APIs |
+| **Sobha Construct 360** | 1,000+ | Flutter, REST APIs |
+| **Face My Resume** | — | Flutter, AWS, GraphQL |
+| **AnyVCharge EV App** | — | Flutter, Google Maps, AWS Amplify |
+| **Halen Driver App** | — | Flutter, Google Maps API |
+| **Diverse Yellow Page** | — | Flutter, Firebase |
+| **Sustainability Pro** | — | Flutter, AWS, GraphQL |
 
 ---
 
@@ -70,14 +105,10 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🏛️ Education
 
-<!-- Replace these with your actual repo names -->
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Project 1](https://github.com/maheshsesetti/YOUR_REPO) | Short description of what it does | React, Node.js |
-| [Project 2](https://github.com/maheshsesetti/YOUR_REPO) | Short description of what it does | Flutter, Firebase |
-| [Project 3](https://github.com/maheshsesetti/YOUR_REPO) | Short description of what it does | Node.js, MongoDB |
+**B.Tech — Computer Science**
+MIC College of Technology, Vijayawada, India &nbsp;·&nbsp; 2013 – 2018
 
 ---
 
@@ -86,5 +117,5 @@
 </p>
 
 <p align="center">
-  <em>♥ Let's build something awesome together!</em>
+  <em>♥ Let's build something awesome together — reach me at mahesh1995.sesetti@gmail.com</em>
 </p>
